@@ -3,6 +3,7 @@
   "short_name": "רשימת קניות",
   "description": "רשימת קניות משפחתית",
   "start_url": "/family-groceries/",
+  "scope": "/family-groceries/",
   "display": "standalone",
   "background_color": "#f7f4ee",
   "theme_color": "#2e5c28",
@@ -10,13 +11,13 @@
   "dir": "rtl",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "/family-groceries/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icon-512.png",
+      "src": "/family-groceries/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
